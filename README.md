@@ -1,0 +1,2 @@
+# strategic-ict-project-on-field-force-management
+As a part of the continuous assessment, we were given the task of building a CRM project on Salesforce platform using a case study. The topic on which we build our CRM solution was "Field Force Management". The solution executed using Salesforce technologies with the help of Communities pages, built-in and custom objects, Order processing Workflow with approval and some bits of Apex codes.
